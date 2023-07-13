@@ -1,6 +1,7 @@
-**Model**: *xxxx*  
-**Libraries**: *Sklearn, Pandas, Matplotlib, Seaborn*  
-**Supervised Machine Learning Project**: *Customer Churn*  
+**Models**: *Decision Tree, Random Forest*  
+**Libraries**: *Sklearn, Pandas, Matplotlib, Seaborn, Mlxtend*  
+
+In the ***Customer Churn Project***, detailed customer analyzes were made and Customer Churn was estimated using ***Decision Tree*** and ***Random Forest Models***.
 
 ## About Customer Churn
 Customer churn refers to the phenomenon where customers discontinue their relationship or subscription with a company or service provider. It represents the rate at which customers stop using a company's products or services within a specific period. Churn is an important metric for businesses as it directly impacts revenue, growth, and customer retention.
