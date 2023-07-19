@@ -12,4 +12,4 @@ Understanding customer churn is crucial for businesses to identify patterns, fac
   
 - Predictive modeling techniques can also be applied to forecast and proactively address potential churn, enabling companies to take proactive measures to retain at-risk customers.
 
-Find out more about this dataset here: https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset?select=customer_churn_dataset-training-master.csv  
+Find out more about this dataset here: https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset?select=customer_churn_dataset-training-master.csv    
