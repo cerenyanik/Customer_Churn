@@ -1,5 +1,5 @@
 **Models**: *Decision Tree, Random Forest*  
-**Libraries**: *Sklearn, Pandas, Matplotlib, Seaborn, Mlxtend*  
+**Libraries**: *Sklearn, Pandas, Matplotlib, Seaborn, Mlxtend*   
 
 In this ***Customer Churn Project***, detailed customer analyzes were made and Customer Churn was estimated using ***Decision Tree*** and ***Random Forest Models***.
 
