@@ -1,7 +1,7 @@
 **Models**: *Decision Tree, Random Forest*  
 **Libraries**: *Sklearn, Pandas, Matplotlib, Seaborn, Mlxtend*   
 
-In this ***Customer Churn Project***, detailed customer analyzes were made and Customer Churn was estimated using ***Decision Tree*** and ***Random Forest Models***.
+In the Customer Churn Project, detailed customer analysis was carried out to better understand the profile of people who will be churned, and customer churn was estimated using ***Decision Tree*** and ***Random Forest Models***.
 
 ### Some of the questions I aim to answer in Exploratory Data Analysis are:
 - What are the distributions of Gender, Subscription Type and Contract Length?
