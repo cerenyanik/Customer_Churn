@@ -3,7 +3,7 @@
 
 In the Customer Churn Project, detailed customer analysis was carried out to better understand the profile of people who will be churned, and customer churn was estimated using ***Decision Tree*** and ***Random Forest Models***.
 
-### Some of the questions I aim to answer in Exploratory Data Analysis are:
+### Some of the questions I aim to answer in Exploratory Data Analysis are: 
 - What are the distributions of Gender, Subscription Type and Contract Length?
 - What is the Churn percentage by Gender?
 - What is the distribution of Contract Length on Churn?
